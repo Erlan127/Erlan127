@@ -5,6 +5,9 @@
 
 <!-- This is taken from https://github.com/maddhruv/npm-statistics -->
 
-![RUBY Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fnpm-statistics%2Fmaster%2Fstats.json)
-
-### I am learning blog writings here - [maddhruv.xyz](http://maddhruv.xyz)
+<h2> 🚀💻 Languages and Tools:</h2>
+<br />
+<p align="left">
+<img src="https://avatars.githubusercontent.com/u/4223" alt="react" width="25" height="25" />
+<img src="https://149664611.v2.pressablecdn.com/wp-content/uploads/2020/09/image-1.png" alt="react" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25" />
