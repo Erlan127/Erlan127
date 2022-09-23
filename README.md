@@ -1,6 +1,4 @@
-
- 
- <h1 align="center">Hi 👋, I'm Risaliev Erlan</h1>
+<h1 align="center">Hi 👋, I'm Risaliev Erlan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risalieverlan017&label=Profile%20views&color=0e75b6&style=flat" alt="risalieverlan017" /> </p>
@@ -17,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/risalieverlan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="risalieverlan" height="30" width="40" /></a>
+<a href="https://fb.com/erlan risaliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erlan risaliev" height="30" width="40" /></a>
 <a href="https://instagram.com/_risaliev.erlan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_risaliev.erlan_" height="30" width="40" /></a>
 <a href="https://discord.gg/risalieverlan017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="risalieverlan017" height="30" width="40" /></a>
 </p>
