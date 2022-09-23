@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Astrum IT-Academy**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **risalieverlan017**
 
